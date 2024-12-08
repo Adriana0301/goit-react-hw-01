@@ -1,0 +1,16 @@
+.friendImg{
+    display: block;
+}
+
+.friendName {
+
+}
+
+.online {
+    color: green;
+
+}
+
+.offline {
+    color: red;
+}

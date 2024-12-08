@@ -1,0 +1,59 @@
+ .profileWrapper {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  
+  .profileImage {
+  background-color: rgba(0, 0, 0, 0.753);
+  border-radius: 50%;
+  
+  
+  }
+  
+  .profileUsername {
+  
+  }
+  
+  .profileTag {
+  
+  }
+  
+  .profileLocation {
+  
+  }
+  
+  .profileList {
+    display: flex;
+    gap: 10px;
+  
+  }
+  
+  .profileListItem {
+    display: flex;
+    flex-direction: column;
+  
+  }
+  
+  .profileListItemText {
+  
+  }
+  
+  .profileListItemNumber {
+  
+  }
+
+  .profileContainer {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  
+  

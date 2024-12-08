@@ -1,0 +1,44 @@
+.transactionTable {
+
+    width: 100%;
+ 
+}
+
+.transactionThead {
+    background-color: black;
+    color: whitesmoke;
+
+}
+
+.transactionTr {
+
+}
+
+.transactionTh {
+    border-right: 1px solid #cdd1d6;
+    border-left: 1px solid #cdd1d6;
+    padding: 0 20px ;
+}
+
+.transactionTr {
+
+}
+
+.transactionTd {
+    text-align: center;
+    padding: 20px;
+  border-bottom: 1px solid#cdd1d6;
+  border-right: 1px solid #cdd1d6;
+  border-left: 1px solid #cdd1d6;
+  color: black;
+
+}
+
+.transactionTd::first-letter {
+    text-transform: uppercase;
+}
+
+.transactionTr:nth-of-type(even) {
+    background-color: whitesmoke;
+    
+  }
